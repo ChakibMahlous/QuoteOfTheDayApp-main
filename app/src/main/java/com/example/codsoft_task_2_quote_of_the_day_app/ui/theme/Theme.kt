@@ -66,6 +66,6 @@ fun CodSoft_Task_2_Quote_Of_The_Day_AppTheme(
         colorScheme = colorScheme,
         typography = Typography,
         content = content
-    ) 
+    )
     //hfshghshteheh
 }
